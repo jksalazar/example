@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: sd
   annotations:
-    github.com/project-slug: jksalazar/example/ 
+    github.com/project-slug: jksalazar/example/tree/main/docs/
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
