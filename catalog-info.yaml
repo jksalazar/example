@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: sd
+  name: sd7
   annotations:
     github.com/project-slug: jksalazar/example/tree/main/docs/
     backstage.io/techdocs-ref: dir:.
